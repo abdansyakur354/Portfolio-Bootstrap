@@ -34,12 +34,8 @@ Welcome to my personal portfolio website! This is a simple, responsive, and visu
    ```
 3. Open `index.html` in your web browser.
 
-## Screenshot
-![Website Preview](img/screenshot.png)
-
 ## Contact
-- **Email**: yourname@example.com
+- **Email**: ?
 - **Instagram**: [@abdan.io](https://www.instagram.com/abdan.io)
 
 Feel free to explore, fork, or contribute to this project!
-
